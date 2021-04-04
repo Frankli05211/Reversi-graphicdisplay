@@ -1,1 +1,3 @@
-# Reversi-graphicdisplay
+# Reversi
+# The implement to the game of Reversi, wihch consists of an n * n(n >= 4, and n is even) grid of cells, where each cell can be empty, black and white. The game begins with 4 cells in the middle following the pattern Black-White-Black-White. The the game begins with balck piece, if the new piece A seted can form a line segment with an existing piece B of the same colour, all of the pieces in the between are occupied and of the opposite colour, then those piece in between will be flipped to the same colour with A and B.
+# The program allows you to implement with the commend "new n" where n is an integer such that n >= 4 and n is even, this will create a new n * n grid. Also, you are alowed to use "play r c" to set a piece at row r and column c of the colour corresponding to the player who's move it is. Enjoy the game!
